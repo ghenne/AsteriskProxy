@@ -1,3 +1,10 @@
 C:\temp\AsteriskProxy\Asterisk.NET\Asterisk.NET.WinForm\obj\Debug\ResolveAssemblyReference.cache
 C:\temp\AsteriskProxy\Asterisk.NET\Asterisk.NET.WinForm\obj\Debug\Asterisk.NET.WinForm.FormMain.resources
 C:\temp\AsteriskProxy\Asterisk.NET\Asterisk.NET.WinForm\obj\Debug\Asterisk.NET.WinForm.csproj.GenerateResource.Cache
+C:\temp\AsteriskProxy\Asterisk.NET\Asterisk.NET.WinForm\bin\Debug\Asterisk.NET.WinForm.exe
+C:\temp\AsteriskProxy\Asterisk.NET\Asterisk.NET.WinForm\bin\Debug\Asterisk.NET.WinForm.pdb
+C:\temp\AsteriskProxy\Asterisk.NET\Asterisk.NET.WinForm\bin\Debug\Asterisk.NET.dll
+C:\temp\AsteriskProxy\Asterisk.NET\Asterisk.NET.WinForm\bin\Debug\Asterisk.NET.pdb
+C:\temp\AsteriskProxy\Asterisk.NET\Asterisk.NET.WinForm\obj\Debug\Asterisk.NET.WinForm.Properties.Resources.resources
+C:\temp\AsteriskProxy\Asterisk.NET\Asterisk.NET.WinForm\obj\Debug\Asterisk.NET.WinForm.exe
+C:\temp\AsteriskProxy\Asterisk.NET\Asterisk.NET.WinForm\obj\Debug\Asterisk.NET.WinForm.pdb

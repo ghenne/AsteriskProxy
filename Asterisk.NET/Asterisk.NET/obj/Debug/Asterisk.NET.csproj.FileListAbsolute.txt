@@ -1,1 +1,5 @@
 C:\temp\AsteriskProxy\Asterisk.NET\Asterisk.NET\obj\Debug\ResolveAssemblyReference.cache
+C:\temp\AsteriskProxy\Asterisk.NET\Asterisk.NET\bin\Debug\Asterisk.NET.dll
+C:\temp\AsteriskProxy\Asterisk.NET\Asterisk.NET\bin\Debug\Asterisk.NET.pdb
+C:\temp\AsteriskProxy\Asterisk.NET\Asterisk.NET\obj\Debug\Asterisk.NET.dll
+C:\temp\AsteriskProxy\Asterisk.NET\Asterisk.NET\obj\Debug\Asterisk.NET.pdb
