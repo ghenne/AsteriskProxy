@@ -1,0 +1,1 @@
+C:\temp\AsteriskProxy\Asterisk.NET\Asterisk.NET\obj\Debug\ResolveAssemblyReference.cache

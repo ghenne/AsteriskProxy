@@ -1,0 +1,3 @@
+C:\temp\AsteriskProxy\Asterisk.NET\Asterisk.NET.WinForm\obj\Debug\ResolveAssemblyReference.cache
+C:\temp\AsteriskProxy\Asterisk.NET\Asterisk.NET.WinForm\obj\Debug\Asterisk.NET.WinForm.FormMain.resources
+C:\temp\AsteriskProxy\Asterisk.NET\Asterisk.NET.WinForm\obj\Debug\Asterisk.NET.WinForm.csproj.GenerateResource.Cache

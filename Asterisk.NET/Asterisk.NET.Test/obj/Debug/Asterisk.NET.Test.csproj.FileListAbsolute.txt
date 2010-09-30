@@ -1,0 +1,3 @@
+C:\temp\AsteriskProxy\Asterisk.NET\Asterisk.NET.Test\obj\Debug\ResolveAssemblyReference.cache
+C:\temp\AsteriskProxy\Asterisk.NET\Asterisk.NET.Test\obj\Debug\Asterisk.NET.Test.fastagi-mapping.resources
+C:\temp\AsteriskProxy\Asterisk.NET\Asterisk.NET.Test\obj\Debug\Asterisk.NET.Test.csproj.GenerateResource.Cache
